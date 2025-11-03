@@ -1,0 +1,21 @@
+store_id,store_name,store_type,province,city,address,phone,open_year,social_media_url,junk_flag
+STR001,        City Colombo Pharmacy Shop,Pharmacy,Western,Colombo,"No. 389, Main Rd, Colombo",071-130-2535,2023,https://facebook.com/colombo_pharmacy,XYYRRT
+STR002,Family Gampaha Electronics Hub,      Electronics,       Western,Gampaha,"No. 182, Main Rd, Gampaha",073-467-6635,2015,,XZRXYX
+STR003,        Super Galle Supermarket Shop,Supermarket,Southern,       Galle,"No. 447, Main Rd, Galle",082-384-8428,2020,https://facebook.com/galle_supermarket,RYYYSX
+STR004,       Quick Trincomalee Grocery Center,Grocery,Eastern,Trincomalee,"No. 362, Main Rd, Trincomalee",094-894-1916,2015,,RSZXYT
+STR005,City Jaffna Electronics Hub,     Electronics,Northern,     Jaffna,"No. 285, Temple Rd, Jaffna",083-697-7543,2017,https://facebook.com/jaffna_electronics,SSSXYR
+STR006,       Mega Negombo Electronics Center,Electronics,Western,Negombo,"No. 450, Main Rd, Negombo",073-798-9797,2025,https://facebook.com/negombo_electronics,TSSYYZ
+STR007,Kandy Pharmacy,Pharmacy,Central,      Kandy,"No. 400, Main Rd, Kandy",094-643-1009,2022,https://facebook.com/kandy_pharmacy,ZZYTSZ
+STR008,          Super Colombo Electronics,Electronics,Western,Colombo,"No. 253, Main Rd, Colombo",089-533-4470,2018,,RYRZRT
+STR009,Mega Kalutara Supermarket,Supermarket,      Western,Kalutara,"No. 46, Main Rd, Kalutara",071-980-6413,2018,https://facebook.com/kalutara_supermarket,RXYZXT
+STR010,       Super Jaffna Grocery Mart,      Grocery,Northern,Jaffna,"No. 220, Temple Rd, Jaffna",071-789-2612,2020,,STXSTR
+STR011,Super Negombo Boutique Mart,Boutique,Western,Negombo,"No. 17, Main Rd, Negombo",077-270-7658,2018,,ZSSRZY
+STR012,Matara Boutique Center,Boutique,       Southern,Matara,"No. 39, Main Rd, Matara",071-151-8811,2023,https://facebook.com/matara_boutique,ZSTXYT
+STR013,        Mega Gampaha Boutique Mart,      Boutique,Western,      Gampaha,"No. 308, Temple Rd, Gampaha",076-785-6147,2021,https://facebook.com/gampaha_boutique,XRZZSX
+STR014,Mega Trincomalee Supermarket Shop,Supermarket,Eastern,Trincomalee,"No. 188, Main Rd, Trincomalee",081-391-3584,2023,,XZXSYT
+STR015,      Super Gampaha Pharmacy Mart,Pharmacy,Western,Gampaha,"No. 154, Main Rd, Gampaha",076-803-5325,2019,,ZSRTSY
+STR111,Super Negombo Boutique Mart,Boutique,Western,Negombo,"No. 17, Main Rd, Negombo",077-270-7658,2018,,ZSSRZY
+STR008,Super Colombo Electronics,Electronics,Western,Colombo,"No. 253, Main Rd, Colombo",089-533-4470,2018,,RYRZRT
+STR009,Mega Kalutara Supermarket,Supermarket,      Western,Kalutara,"No. 46, Main Rd, Kalutara",071-980-6413,2018,https://facebook.com/kalutara_supermarket,RXYZXT
+STR010,       Super Jaffna Grocery Mart,      Grocery,Northern,Jaffna,"No. 220, Temple Rd, Jaffna",071-789-2612,2020,,STXSTR
+STR011,Super Negombo Boutique Mart,Boutique,Western,Negombo,"No. 17, Main Rd, Negombo",077-270-7658,2018,,ZSSRZY
