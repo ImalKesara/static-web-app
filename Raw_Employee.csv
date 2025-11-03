@@ -1,0 +1,162 @@
+emp_id,name,position,hire_date,store_id,salary_lkr,phone,social_media_url,junk_flag
+EMP0001,Sampath Thilakarathne,Stock Clerk,21/04/2021,STR013,114436.94,728078673,https://linkedin.com/in/sampaththilakarathne,EMXXYY
+EMP0002,Danushka Ekanayake,Store Manager,26/08/2022,STR010,123984.35,822622631,https://linkedin.com/in/danushkaekanayake,PMEPEZ
+EMP0003,Kasun De Silva,Security,7/24/2021,STR009,,737377459,https://linkedin.com/in/kasunde silva,XPPMMZ
+EMP0004,Danushka Goonewardena,Sales,19/10/2020,STR015,101264.47,941938483,https://linkedin.com/in/danushkagoonewardena,EMMMZZ
+EMP0005,            Malsha Edirisinghe,Cashier,5/14/2020,STR007,122171.52,887700828,https://linkedin.com/in/malshaedirisinghe,ZEPYZE
+EMP0006,Nilmini Goonewardena,Cleaner,11/5/2020,STR014,41262.91,915476583,,PMEEYY
+EMP0007,Damayanthi Amarasiri,         Cashier,4/24/2023,STR002,99331.69,861009594,https://linkedin.com/in/damayanthiamarasiri,PEPZYM
+EMP0008,Yasodha Wimalasena,Sales,25/11/2020,STR002,100478.4,898099076,,ZYYYPY
+EMP0009,Avishka Gamage,Cashier,13/12/2022,STR004,64223.91,901987737,https://linkedin.com/in/avishkagamage,ZZEMYM
+EMP0010,         Achini Premaratne,Cashier,5/27/2019,STR008,85221.25,712651177,https://linkedin.com/in/achinipremaratne,YYEMXE
+EMP0011,Lahiru Soysa,         Stock Clerk,27/11/2021,STR003,,773790237,https://linkedin.com/in/lahirusoysa,PZZEEP
+EMP0012,Pathum Premaratne,Security,4/6/2020,STR015,122277.31,888999183,https://linkedin.com/in/pathumpremaratne,ZEZEMX
+EMP0013,Nilmini Goonewardena,Stock Clerk,2/27/2021,STR002,97506.1,766271130,https://linkedin.com/in/sanathdias,PYMMYE
+EMP0014,          Arjuna Edirisinghe,Cashier,12/28/2022,STR012,66871.29,846075395,,ZXEYMX
+EMP0015,Bhanuka Pathirana,       Security,27/11/2018,STR009,109766.18,855213115,,ZEPMEY
+EMP0016,Ruwani Wickramasinghe,Security,30/07/2018,STR013,56395.97,813484601,https://linkedin.com/in/ruwaniwickramasinghe,EPZZEP
+EMP0017,          Nilmini Thilakarathne,Cashier,10/8/2018,STR014,147382.66,831415846,https://linkedin.com/in/nilminithilakarathne,ZYPYYM
+EMP0018,Vijay Samarasinghe,Security,3/1/2021,STR001,130259,771397023,,PMEYPX
+EMP0019,Bhanuka Karunaratne,         Cleaner,4/10/2023,STR006,105622.84,808321474,,XPXMYE
+EMP0020,Yasodha Gunasekara,Security,14/06/2021,STR007,53708.78,866188935,,MYXMXP
+EMP0021,         Pathum Pathirana,Cleaner,8/4/2022,STR011,75447.42,914585314,https://linkedin.com/in/pathumpathirana,YZYXMX
+EMP0022,H1run1 Pr3m@r@tn3,Security,,STR013,,942221854,https://linkedin.com/in/hirunipremaratne,ZXYPPE
+EMP0023,Chamika Samarasinghe,        Security,23/05/2020,STR015,45524.02,738658158,https://linkedin.com/in/chamikasamarasinghe,PXXMYP
+EMP0024,Vijay Goonewardena,Cashier,11/9/2018,STR002,124239.51,905013879,https://linkedin.com/in/vijaygoonewardena,EMMMXE
+EMP0025,Achini Mendis,Stock Clerk,2/13/2022,STR008,86215.79,881327691,,YPEPYZ
+EMP0026,        Bhanuka Alwis,Stock Clerk,17/06/2019,STR006,127795.66,843141239,,XZXXEP
+EMP0027,Praveen Mendis,Store Manager,2/13/2019,STR010,144632.45,728890439,https://linkedin.com/in/praveenmendis,XZPXYX
+EMP0028,Avishka Liyanage,       Sales,3/2/2023,STR007,91153.74,813815034,,ZYYEMX
+EMP0029,Kasun Ratwatte,Store Manager,12/8/2022,STR002,124972.9,893030966,,XEXXEX
+EMP0030,Gayathri Soysa,Cashier,27/06/2018,STR015,59375.07,905531230,,ZYPYXM
+EMP0031,           Hiruni Goonewardena,Cashier,14/01/2022,STR008,94373.72,854558780,https://linkedin.com/in/hirunigoonewardena,MMXZXX
+EMP0032,Vijay Soysa,        Stock Clerk,5/30/2019,STR002,72365.91,776137284,,PXPZXP
+EMP0033,Charith Ranasinghe,Cashier,6/19/2023,STR009,61069.51,789801946,https://linkedin.com/in/charithranasinghe,ZYMPMY
+EMP0034,        Indika Liyanage,Cleaner,4/20/2018,STR003,41349.19,858389840,https://linkedin.com/in/indikaliyanage,ZMZEEP
+EMP0035,Yasodha Samarasinghe,      Security,4/12/2022,STR011,126981.49,867381684,https://linkedin.com/in/yasodhasamarasinghe,PZZMXX
+EMP0036,Bhanuka Gunasekara,Security,7/5/2022,STR007,57218.59,928883823,https://linkedin.com/in/bhanukagunasekara,MYYPYZ
+EMP0037,       Hashan Samarasinghe,Cleaner,,STR007,47855.08,795842082,https://linkedin.com/in/hashansamarasinghe,PMPMXP
+EMP0038,Vijay Goonewardena,Sales,13/04/2021,STR011,103271.9,,,YMEYPX
+EMP0039,Yasodha Hettiarachchi,      Stock Clerk,8/17/2022,STR011,134350.64,929312590,https://linkedin.com/in/yasodhahettiarachchi,ZYXPMM
+EMP0040,Achini De Silva,Cashier,9/29/2019,STR009,108794.96,765480460,https://linkedin.com/in/achinide silva,ZPYEZX
+EMP0041,        Yasodha Samarasinghe,Cleaner,12/6/2022,STR014,52921.28,855896624,https://linkedin.com/in/yasodhasamarasinghe,MZZMXP
+EMP0042,Bhanuka Alwis,Cashier,5/5/2019,STR004,40282.18,889214801,,PPMYPZ
+EMP0043,Harshani Mendis,     Cleaner,2/1/2018,STR007,82468.66,903551903,https://linkedin.com/in/harshanimendis,EXXZZP
+EMP0044,Kasun Hettiarachchi,Security,8/12/2019,STR012,83723.17,809952696,https://linkedin.com/in/kasunhettiarachchi,MYYZEE
+EMP0045,Chamika Ranasinghe,Cashier,11/6/2018,STR010,58300.13,701771600,https://linkedin.com/in/chamikaranasinghe,EPPMPY
+EMP0046,       Vijay Ratwatte,Sales,9/11/2019,STR007,68085.94,845825658,,EPPXXP
+EMP0047,Pooja Samarasinghe,Sales,17/04/2019,STR004,116920.7,917640518,https://linkedin.com/in/poojasamarasinghe,XYYEXP
+EMP0048,Muttiah Edirisinghe,      Cashier,30/05/2022,STR009,132217.08,901661401,https://linkedin.com/in/muttiahedirisinghe,PXYEMY
+EMP0049,Kavindi Edirisinghe,Cleaner,8/6/2022,STR001,,802932227,https://linkedin.com/in/kavindiedirisinghe,EYMYYP
+EMP0050,Ruwani Ranasinghe,Security,6/2/2023,STR011,104301.61,812817745,,PXZMXX
+EMP0051,         P00j@ L1y@n@g3,Stock Clerk,4/9/2022,STR010,,773276065,https://linkedin.com/in/poojaliyanage,PZYXXY
+EMP0052,Tharushi De Silva,Stock Clerk,3/11/2019,STR001,65972.39,917162857,https://linkedin.com/in/tharushide silva,ZPPMEZ
+EMP0053,Hiruni Liyanage,Cashier,11/10/2022,STR003,100962.86,776512314,,YXMZZX
+EMP0054,W@n1ndu S@m@r@s1ngh3,       Security,7/27/2020,STR001,53943.44,732066326,https://linkedin.com/in/wanindusamarasinghe,YXEXZE
+EMP0055,Sithara Alwis,Stock Clerk,5/31/2020,STR013,48083.98,893488628,https://linkedin.com/in/sitharaalwis,MXXMZX
+EMP0056,Hashan Thilakarathne,Store Manager,10/7/2018,STR002,85519.49,827979148,,MMMZYP
+EMP0057,          Malsha Wimalasena,Security,10/2/2022,STR006,113701.46,918095702,,YZXPXM
+EMP0058,Pooja Edirisinghe,Sales,,STR014,147200.13,891440466,,XYEMYZ
+EMP0059,Sanath Gunasekara,Store Manager,3/26/2022,STR011,43372.28,767311494,https://linkedin.com/in/sanathgunasekara,PPYYXE
+EMP0060,Bhanuka Goonewardena,       Cleaner,,STR004,70048.35,736791039,https://linkedin.com/in/bhanukagoonewardena,MYPYEP
+EMP0061,Dinusha Liyanage,Stock Clerk,,STR015,94712.39,747378822,https://linkedin.com/in/dinushaliyanage,MXYPPY
+EMP0062,Charith Ratwatte,Cleaner,11/6/2018,STR014,71846.67,803883553,,XYZEZM
+EMP0063,        Iresha Samarasinghe,Cashier,9/4/2021,STR003,52542.93,946861544,https://linkedin.com/in/ireshasamarasinghe,ZXEEMM
+EMP0064,Udeshika Ratwatte,Store Manager,1/6/2018,STR008,102094.1,896422534,,XEEPMM
+EMP0065,Harshani De Silva,Cashier,9/1/2020,STR001,147510.54,899507186,https://linkedin.com/in/harshanide silva,XZYEZX
+EMP0066,Pooja Mendis,Security,15/05/2018,STR002,44305.63,849792411,https://linkedin.com/in/poojamendis,EPMPPX
+EMP0067,Nipuni Edirisinghe,Cleaner,10/6/2022,STR014,136060.76,883372774,,MXXEYE
+EMP0068,Arjuna Gamage,Cleaner,12/15/2022,STR011,79885.74,766733317,,PMEEZE
+EMP0069,Nilmini Liyanage,Cashier,26/09/2019,STR015,116213.02,758342941,https://linkedin.com/in/nilminiliyanage,PYZXYY
+EMP0070,Wanindu Gunasekara,Cleaner,12/27/2021,STR005,70994.89,868023963,,YYEMXZ
+EMP0071,Danushka Edirisinghe,     Sales,15/09/2022,STR013,50088.49,846865064,,PPPPEM
+EMP0072,Angelo De Silva,Sales,9/7/2018,STR004,55267.2,841088100,,EMEZXP
+EMP0073,Damayanthi Dias,Cleaner,5/19/2018,STR007,105641.29,865059048,,MEPXMY
+EMP0074,Harshani Soysa,Security,25/11/2021,STR011,79280.33,772739191,,YMEXYM
+EMP0075,Angelo Gamage,Sales,8/4/2018,STR005,62175.01,716294819,,XZXMYM
+EMP0076,    Wanindu Alwis,Cleaner,5/1/2019,STR006,82530.92,,https://linkedin.com/in/wanindualwis,PZXYYE
+EMP0077,Kasun Mendis,Store Manager,11/4/2020,STR009,86872.77,818501590,https://linkedin.com/in/kasunmendis,ZPZMZZ
+EMP0078,Sampath Liyanage,Store Manager,20/12/2020,STR007,53885.3,907145971,https://linkedin.com/in/sampathliyanage,ZEEPPP
+EMP0079,Damayanthi Edirisinghe,Store Manager,1/6/2018,STR003,94894.84,872975701,https://linkedin.com/in/damayanthiedirisinghe,MPZMZP
+EMP0080,Yasodha Gunasekara,      Cashier,30/04/2019,STR001,118049.45,796032437,,YZXYXE
+EMP0081,Ruwani Ratwatte,Security,12/8/2020,STR003,107314.32,797680015,,YXYYEZ
+EMP0082,Angelo Alwis,Cleaner,4/7/2021,STR010,96991.23,756413349,,MZXMEM
+EMP0083,       Arjuna Soysa,Security,17/03/2021,STR010,112460.62,896664316,,XYEEXX
+EMP0084,Vijay Soysa,Security,29/10/2022,STR007,66936.57,825990112,https://linkedin.com/in/vijaysoysa,YEPPPE
+EMP0085,Wanindu Amarasiri,      Cleaner,1/24/2019,STR008,69421.88,731849015,https://linkedin.com/in/waninduamarasiri,PXMZEM
+EMP0086,Madushani Pathirana,Store Manager,13/12/2022,STR012,90295.37,886920597,https://linkedin.com/in/madushanipathirana,MXZYME
+EMP0087,S1th@r@ C00r@y,Sales,26/11/2019,STR013,79877.62,829460003,https://linkedin.com/in/sitharacooray,XYXXEE
+EMP0088,Kusal Dias,Security,30/04/2021,STR009,55074,859712957,https://linkedin.com/in/kusaldias,XXMXEZ
+EMP0089,      Indika Ratwatte,Cleaner,1/17/2022,STR010,114118.7,,https://linkedin.com/in/indikaratwatte,YYYEPZ
+EMP0090,Kavindi Amarasiri,Stock Clerk,2/15/2022,STR012,56255.33,712843740,https://linkedin.com/in/kavindiamarasiri,PPPMXX
+EMP0091,Arjuna Premaratne,     Sales,1/29/2019,STR005,81450.73,,https://linkedin.com/in/arjunapremaratne,XXYZYY
+EMP0092,Hiruni Pathirana,Cashier,8/13/2019,STR006,93790.34,875587856,https://linkedin.com/in/hirunipathirana,XXZPPY
+EMP0093,        Damayanthi Edirisinghe,Store Manager,9/1/2022,STR002,69824.6,783303058,https://linkedin.com/in/damayanthiedirisinghe,YMEZMM
+EMP0094,Sampath Wimalasena,Security,4/3/2023,STR015,136871.22,904346315,,MMEYXM
+EMP0095,Ch@m1k@ K@run@r@tn3,Cleaner,12/27/2022,STR014,126675.67,935856449,,EXEZMZ
+EMP0096,Tharushi Premaratne,Cleaner,3/31/2020,STR003,111311.39,706655803,,XYMZZY
+EMP0097,V1j@y M3nd1s,Cashier,26/10/2020,STR012,89140.91,806065810,https://linkedin.com/in/vijaymendis,XMPMYP
+EMP0098,Pathum Cooray,       Cleaner,17/06/2018,STR009,56850.41,897268384,https://linkedin.com/in/pathumcooray,XPXXMM
+EMP0099,Yasodha Ratwatte,Store Manager,17/11/2020,STR008,62237.25,756504900,,PYYPZP
+EMP0100,Hashan Goonewardena,Store Manager,1/4/2019,STR013,67990.29,762225232,https://linkedin.com/in/hashangoonewardena,PEZZEZ
+EMP0101,Gayathri Jayaweera,Cashier,3/29/2022,STR005,48827.5,,,EZEZPE
+EMP0102,Wasana Thilakarathne,Store Manager,5/18/2018,STR010,67226.32,784162177,,YEYPYZ
+EMP0103,Praveen Dias,Cleaner,9/10/2021,STR004,44866.04,874645172,,YEZMZX
+EMP0104,Malsha Gunasekara,Sales,4/16/2020,STR005,101238.99,933938247,,PPZZYY
+EMP0105,         Kavindi Wimalasena,Sales,1/23/2022,STR001,117833.45,717923579,,XEMMXZ
+EMP0106,S1th@r@ Gun@s3k@r@,Store Manager,25/03/2022,STR015,128511.57,914640933,https://linkedin.com/in/sitharagunasekara,ZMZEZZ
+EMP0107,Muttiah Ekanayake,      Sales,30/01/2020,STR007,125306.53,877027375,https://linkedin.com/in/muttiahekanayake,PZPYYY
+EMP0108,S@n@th S@m@r@s1ngh3,Stock Clerk,7/8/2021,STR008,104243.51,793557039,https://linkedin.com/in/sanathsamarasinghe,MXMXZP
+EMP0109,Wanindu Karunaratne,Cashier,4/19/2019,STR012,137830.1,,,XZEYEE
+EMP0110,Sampath Premaratne,Cleaner,12/10/2021,STR013,113343.02,859184838,https://linkedin.com/in/sampathpremaratne,XPEYXM
+EMP0111,Thisara Ranasinghe,Security,8/23/2021,STR002,67766,822325722,https://linkedin.com/in/thisararanasinghe,PXZMYZ
+EMP0112,    S1th@r@ J@y@w33r@,Cleaner,4/6/2018,STR011,58852.19,836557798,https://linkedin.com/in/sitharajayaweera,ZEXEMZ
+EMP0113,Ruwani Ratwatte,Stock Clerk,10/14/2018,STR009,41722.39,747682298,,MXXZYX
+EMP0114,Harshani Ranasinghe,      Stock Clerk,24/10/2021,STR002,124590.62,,https://linkedin.com/in/harshaniranasinghe,YEMZPP
+EMP0115,Hiruni Ekanayake,Stock Clerk,10/2/2021,STR002,126227.93,826312979,https://linkedin.com/in/hiruniekanayake,EZPYEE
+EMP0116,Kasun Cooray,Cashier,9/9/2019,STR008,135009,837506196,,YXZMXY
+EMP0117,       Kasun Karunaratne,Sales,5/31/2020,STR005,48461.35,779318184,https://linkedin.com/in/kasunkarunaratne,MEMZMX
+EMP0118,Nilmini Ekanayake,Stock Clerk,3/24/2023,STR010,,,https://linkedin.com/in/nilminiekanayake,YPXMPY
+EMP0119,Hashan Wickramasinghe,Security,2/12/2020,STR008,88230.04,922160289,,YPPXMX
+EMP0120,Hansani Jayaweera,Security,22/03/2022,STR013,86013.08,812425760,https://linkedin.com/in/hansanijayaweera,MXEXXX
+EMP0121,Pooja Wickramasinghe,Sales,5/24/2023,STR002,101379.28,778478923,https://linkedin.com/in/poojawickramasinghe,PYYEZP
+EMP0122,Wanindu Pathirana,Cashier,2/25/2022,STR009,78313.03,938590804,https://linkedin.com/in/wanindupathirana,MYEZXY
+EMP0123,Hashan Karunaratne,Sales,7/15/2022,STR010,127753.14,758250013,https://linkedin.com/in/hashankarunaratne,YZPPEM
+EMP0124,Hashan Karunaratne,Security,2/25/2023,STR011,113777.16,906258048,https://linkedin.com/in/hashankarunaratne,XXPZXY
+EMP0125,Charith Ranasinghe,Cashier,10/15/2018,STR006,55549.44,893313029,https://linkedin.com/in/charithranasinghe,PPXZZM
+EMP0126,Nilmini De Silva,Cashier,7/17/2019,STR009,61464.13,879479842,,PPYPMX
+EMP0127,Kavindi Goonewardena,Security,9/2/2019,STR008,96188.66,787154919,https://linkedin.com/in/kavindigoonewardena,YYPMPY
+EMP0128,Gayathri Gamage,Cleaner,7/30/2019,STR006,66064.07,886882609,,XPXYYY
+EMP0129,Nipuni Ratwatte,Cashier,10/22/2019,STR013,,733274804,,YZZZEZ
+EMP0130,Madushani Liyanage,Security,14/06/2023,STR011,89719.09,942561871,https://linkedin.com/in/madushaniliyanage,YYZPPX
+EMP0131,Yasodha Wimalasena,Security,7/30/2020,STR002,94418.64,796666591,https://linkedin.com/in/yasodhawimalasena,EZYZYE
+EMP0132,Gayathri Soysa,Security,25/04/2019,STR011,54510.44,755597283,https://linkedin.com/in/praveengoonewardena,PEXXEX
+EMP0133,Thisara Wickramasinghe,Store Manager,23/01/2020,STR003,97138.87,706764217,,ZPEEPY
+EMP0134,Malsha Soysa,Store Manager,10/9/2018,STR006,40932.22,846891952,,XEPYZE
+EMP0135,Iresha Liyanage,      Store Manager,6/14/2022,STR008,106109.9,791450038,,XMXXYM
+EMP0136,Pooja Samarasinghe,Store Manager,,STR002,147546.66,,,EZXPYY
+EMP0137,Pooja Edirisinghe,Cashier,15/11/2018,STR007,71513.66,947969792,https://linkedin.com/in/bhanukapremaratne,PXXEEE
+EMP0138,      Pathum Ekanayake,Store Manager,6/5/2023,STR009,66892.77,738606317,,EXXMEE
+EMP0139,Kavindi Cooray,Sales,,STR014,137505.62,706620552,,MEYXEP
+EMP0140,Wanindu Karunaratne,Store Manager,15/02/2023,STR004,119505.62,861043092,https://linkedin.com/in/wanindukarunaratne,ZMPPEZ
+EMP0141,Hiruni Alwis,     Sales,6/2/2021,STR001,102868.96,911883692,https://linkedin.com/in/hirunialwis,YZZEPM
+EMP0142,Dinusha Pathirana,Security,12/2/2022,STR006,91031.94,854278644,,XYEZEX
+EMP0143,Dhananjaya Thilakarathne,Security,7/15/2018,STR011,66198.44,713388630,,EZZXYP
+EMP0144,Yasodha Ratwatte,Cashier,4/12/2021,STR003,,786284972,,PYMPMZ
+EMP0145,Danushka Goonewardena,Sales,12/27/2021,STR006,146109.82,798773665,https://linkedin.com/in/danushkagoonewardena,EEYYYE
+EMP0146,Shamila De Silva,Cashier,14/08/2022,STR006,,828586676,https://linkedin.com/in/shamilade silva,XEEYEE
+EMP0147,Sanath Ratwatte,Stock Clerk,19/03/2020,STR001,47091.92,843160763,https://linkedin.com/in/sanathratwatte,ZYEZEZ
+EMP0148,         Wasana Alwis,Security,12/12/2020,STR011,70784,715123584,,PZPEPP
+EMP0149,Dhananjaya Ekanayake,Cleaner,4/11/2021,STR003,140394.47,825537157,https://linkedin.com/in/dhananjayaekanayake,MMZYEZ
+EMP0150,Avishka Gunasekara,      Cleaner,,STR012,121076.62,777516648,https://linkedin.com/in/avishkagunasekara,ZZMXYY
+EMP1091,Arjuna Premaratne,Sales,1/29/2019,STR005,81450.73,,https://linkedin.com/in/arjunapremaratne,XXYZYY
+EMP1146,       Shamila De Silva,     Cashier,14/08/2022,STR006,,828586676,https://linkedin.com/in/shamilade silva,XEEYEE
+EMP0125,Charith Ranasinghe,Cashier,10/15/2018,STR006,55549.44,893313029,https://linkedin.com/in/charithranasinghe,PPXZZM
+EMP0126,Nilmini De Silva,Cashier,7/17/2019,STR009,61464.13,879479842,,PPYPMX
+EMP0127,Kavindi Goonewardena,Security,9/2/2019,STR008,96188.66,787154919,https://linkedin.com/in/kavindigoonewardena,YYPMPY
+EMP0128,Gayathri Gamage,Cleaner,7/30/2019,STR006,66064.07,886882609,,XPXYYY
+EMP0040,Achini De Silva,Cashier,9/29/2019,STR009,108794.96,765480460,https://linkedin.com/in/achinide silva,ZPYEZX
+EMP0041,        Yasodha Samarasinghe,Cleaner,12/6/2022,STR014,52921.28,855896624,https://linkedin.com/in/yasodhasamarasinghe,MZZMXP
+EMP0042,Bhanuka Alwis,Cashier,5/5/2019,STR004,40282.18,889214801,,PPMYPZ
+EMP0043,Harshani Mendis,     Cleaner,2/1/2018,STR007,82468.66,903551903,https://linkedin.com/in/harshanimendis,EXXZZP
+EMP0044,Kasun Hettiarachchi,Security,8/12/2019,STR012,83723.17,809952696,https://linkedin.com/in/kasunhettiarachchi,MYYZEE
