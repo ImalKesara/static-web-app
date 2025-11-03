@@ -1,5 +1,4 @@
-{
-  "rows": [
+[
     {
       "prod_id": "PRD0001",
       "product_name": "Eco Samsung Kettle",
@@ -2051,4 +2050,3 @@
       "junk_flag": "PZZXYD"
     }
   ]
-}
